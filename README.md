@@ -11,7 +11,7 @@ If you use [Pipenv][pipenv], here's how to install the dependencies, and run the
 
 [pipenv]: https://pipenv.readthedocs.io/en/latest/
 
-```python
+```bash
 $ cd /path/to/project
 $ pipenv install
 $ pipenv run ./fix.py path/to/input.csv path/to/output.csv
